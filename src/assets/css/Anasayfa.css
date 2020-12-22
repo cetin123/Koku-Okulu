@@ -1,0 +1,91 @@
+/*
+HOME PAGE
+*/
+.Anasayfa{
+    display: flex;
+    flex:3;
+   flex-direction: column;
+  
+}
+
+.Anasayfa .section .title{
+    margin-bottom: 20px;
+}
+.carouser 
+{
+    flex:1;
+margin-left:auto;
+margin-right:auto;
+width: 90%;
+margin-top: 1%;
+
+}
+/*card ///////////////////////////////*/
+.card
+{
+align-items: center;
+}
+.card1{
+    margin-top: 1%;
+    width: 70%;
+    flex:1;
+    margin-left:auto;
+    margin-right:auto;
+  
+
+}  
+.card0{
+    margin-top: 1%;
+    width: 40%;
+    flex:1;
+    margin-left:auto;
+    margin-right:auto;
+  
+
+}  
+
+#fiyat
+{
+    text-align: center;
+    color:red;
+
+    
+}
+#satinal
+{   
+     right: 40%
+}
+.cbgcolor
+{
+background-color: red;
+}
+/*card ///////////////////////////////*/
+
+/* Kayit- Giriş ////////////////////////////////////// */
+
+#giris
+{
+position: absolute;
+right:11%;
+border-radius: 10px;
+}
+#kayitol
+{
+position: absolute;
+right:3%;
+border-radius: 10px;
+}
+#kategori1
+{
+   
+position: absolute;
+
+color:white;
+text-decoration: none;
+}
+#kategori2
+{
+    padding-top: 10px;
+color:white;
+text-decoration: none;
+}

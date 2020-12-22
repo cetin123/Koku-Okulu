@@ -1,0 +1,20 @@
+.navbar {
+    background-color:rgb(105, 163, 202);
+   
+    align-self: flex-end;
+    flex-direction: row;
+    flex: 3;
+  }
+  
+  .navbar .norbutton
+{
+    align-self: flex-end;
+  
+    flex: 2;
+    
+}
+.navbar .anibutton
+{
+
+  flex: 1;
+}

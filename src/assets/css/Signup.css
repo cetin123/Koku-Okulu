@@ -1,0 +1,22 @@
+.container
+{
+    flex:3;
+    justify-content: center;
+}
+.header
+{
+    flex:1;
+    justify-content: center;
+}
+.form
+{
+ 
+    flex:1;
+    justify-content: center;
+}
+.footer
+{
+   
+    flex:1;
+    justify-content: center;
+}
